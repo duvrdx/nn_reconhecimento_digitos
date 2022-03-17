@@ -1,0 +1,2 @@
+# Rede Neural :brain: - Reconhecimento de Dígitos Manuscritos 
+Esse repositório contém o código utilizado para a modelagem de uma rede neural para reconhecer dígitos manuscritos, esse é um dos exercícios presentes no livro online [DeepLearning Book](https://www.deeplearningbook.com.br/). Os códigos feitos por eles, podem ser encontrados no [repositório deles](https://github.com/dsacademybr/DeepLearningBook).
